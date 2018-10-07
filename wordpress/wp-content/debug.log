@@ -1,0 +1,280 @@
+[26-Sep-2018 06:55:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:55:42 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:55:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:55:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:56:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:56:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:56:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 06:56:05 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:00:12 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:00:12 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:01:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:02:28 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:26 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:26 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:38 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:38 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:10:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:26:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:26:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 07:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(5): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(5): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_posts() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:4
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 4
+[26-Sep-2018 07:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_posts() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:4
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 4
+[26-Sep-2018 07:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(19): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:38:39 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 07:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(19): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:38:43 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 07:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(19): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:40:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 07:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(19): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:46:45 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 07:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(20): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 07:50:26 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 07:50:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:04:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:08:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:08:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:10:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:10:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:10:25 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:16:54 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_post_data() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php:21
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#2 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#3 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php on line 21
+[26-Sep-2018 08:17:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:17:52 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:17:53 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:18:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\index.php(25): get_sidebar()
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template-loader.php(74): include('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-blog-header.php(19): require_once('D:\\MAMP\\MAMP\\ht...')
+#6 D:\MAMP\MAMP\htdocs\wordpress\index.php(17): require('D:\\MAMP\\MAMP\\ht...')
+#7 {main}
+  thrown in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\scratch\sidebar.php on line 1
+[26-Sep-2018 08:18:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:18:29 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:21:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:18 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:25 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:32 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 08:21:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scratch_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:03 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:32:09 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:35:12 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:35:24 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 08:44:41 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'jensrott_enqueue_scripts' not found or invalid function name in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\class-wp-hook.php on line 286
+[26-Sep-2018 14:44:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:44:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:44:20 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:44:20 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:44:24 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:44:24 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:45:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 14:45:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:09 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:40 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:03:46 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:04:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:04:11 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:04:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:04:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:09:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:09:56 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:00 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:00 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:06 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:33 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:39 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:26:58 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:27:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:27:14 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:08 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:10 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 15:53:10 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:03:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_sidebar() in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\jensrott\sidebar.php:1
+Stack trace:
+#0 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(688): require_once()
+#1 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', true)
+#2 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#3 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\jensrott\homepage-template.php(66): get_sidebar('primary-sidebar')
+#4 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(690): require('D:\\MAMP\\MAMP\\ht...')
+#5 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\template.php(647): load_template('D:\\MAMP\\MAMP\\ht...', false)
+#6 D:\MAMP\MAMP\htdocs\wordpress\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#7 D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\jensrott\index.php(7): get_template_part('homepage-templa...', '')
+#8 D:\MAMP\MAMP\htdocs\wordpress\wp-inclu in D:\MAMP\MAMP\htdocs\wordpress\wp-content\themes\jensrott\sidebar.php on line 1
+[26-Sep-2018 19:09:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:09:55 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:10:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:10:02 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:11:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:11:59 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:13:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\post-template.php on line 284
+[26-Sep-2018 19:14:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:14:13 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:17 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:43 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:15:43 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:01 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:01 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
+[26-Sep-2018 19:17:03 UTC] PHP Notice:  ob_end_flush(): failed to send buffer of zlib output compression (1) in D:\MAMP\MAMP\htdocs\wordpress\wp-includes\functions.php on line 3743
